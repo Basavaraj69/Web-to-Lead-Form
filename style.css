@@ -38,3 +38,9 @@ input[type="submit"] {
     margin: 15px auto 0 auto;
     border-radius: 5px;
 }
+
+.g-recaptcha {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
